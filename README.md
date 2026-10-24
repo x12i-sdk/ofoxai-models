@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Offline JSON-backed OfoxAI model catalog — pass-through rates, 0% deposit fee.
-- An application needs the versioned ofoxai-models definitions or bundled content instead of maintaining its own copy.
+- Populate a model picker from the bundled OfoxAI catalog.
+- Read a model's recorded pricing and capabilities without making a provider request.
 
 ## Links
 
