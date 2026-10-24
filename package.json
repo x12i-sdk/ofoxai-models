@@ -1,0 +1,22 @@
+{
+  "name": "ofoxai-models-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for ofoxai-models: look up models in the bundled offline catalog.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "ofoxai-models": "0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/ofoxai-models.git"
+  },
+  "homepage": "https://www.npmjs.com/package/ofoxai-models"
+}

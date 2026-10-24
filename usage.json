@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "ofoxai-models",
+  "packageVersion": "0.3.0",
+  "npmUrl": "https://www.npmjs.com/package/ofoxai-models",
+  "usageRepository": "https://github.com/x12i-sdk/ofoxai-models",
+  "sourceRepository": "https://github.com/x12i/ai-profiles",
+  "sourceCommit": "8efd4dc11dfaacab2ceef9f030a4a3fa7da00800",
+  "sourcePackageDirectory": "packages/ofoxai-models",
+  "example": {
+    "title": "Look up models in the bundled offline catalog",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:33:07.064570+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "4a2f0590225b8bfecbac20e2d7b7ef1a043623ab0da648330d4844f9e4ef43a4",
+    "manifestSha256": "9a0f1ecbca83cd5806f8e8ea26fafbb7ce32537f4d265efa41390df8ad8679f4"
+  }
+}
